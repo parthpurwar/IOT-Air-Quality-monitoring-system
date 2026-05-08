@@ -289,10 +289,6 @@ Possible enhancements:
 
 ---
 
-# Author
-
-Developed as a complete educational simulation project for understanding IoT communication systems and the OSI networking model.
-
 ---
 
 # License
